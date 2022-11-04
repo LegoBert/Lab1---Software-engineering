@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Kitsun1_lab1_task4.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{CCC36C8E-822D-46E2-929D-FB229D1F6E77}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Kitsun1_lab1_task4.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Kitsun1_lab1_task4Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{603A4F24-F8B0-4194-948D-E2851317354F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Kitsun1_lab1_task4">
+      <UniqueIdentifier>{C6A7D63B-ED77-4566-8EEC-B5B4849BEDA3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Kitsun1_lab1_task4\Kitsun1_lab1_task4.Build.cs">
+      <Filter>Source\Kitsun1_lab1_task4</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Kitsun1_lab1_task4\Kitsun1_lab1_task4.cpp">
+      <Filter>Source\Kitsun1_lab1_task4</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Kitsun1_lab1_task4\Kitsun1_lab1_task4.h">
+      <Filter>Source\Kitsun1_lab1_task4</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Kitsun1_lab1_task4\Kitsun1_lab1_task4GameModeBase.cpp">
+      <Filter>Source\Kitsun1_lab1_task4</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Kitsun1_lab1_task4\Kitsun1_lab1_task4GameModeBase.h">
+      <Filter>Source\Kitsun1_lab1_task4</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
